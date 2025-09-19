@@ -1,0 +1,6 @@
+# Kivy framework for mobile app development
+Kivy>=2.1.0
+
+# Additional dependencies for Android packaging
+buildozer
+cython
